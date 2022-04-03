@@ -1,4 +1,5 @@
-# 7_etf_sql
+# Analyze a portfolio of ETFs using SQLite
+
 Challenge 7 of University of Washington FinTech Boot Camp - Analyze ETF using SQL
 ---
 
