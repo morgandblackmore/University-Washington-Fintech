@@ -13,7 +13,7 @@ The data used includes 77,536 loans, each with the following data:
   * Derogatory marks  
   * Total debt  
   
-Of those 77,536 total loans, 2500 (3.2%) are defaults.  Because of this imbalanced data set the analysis is done twice in order to highlight the technique of random oversampling, which resamples enough of the original instances to make the size of the smaller class equal to the size of the larger class in the training set. The analysis will make use of logistic regression as our classifier algorithm.  
+Of those 77,536 total loans, 2500 (3.2%) are defaults.  Because of this imbalanced dataset the analysis is done twice in order to highlight the technique of random oversampling, which resamples enough of the original instances to make the size of the smaller class equal to the size of the larger class. The analysis will make use of logistic regression as our classifier algorithm.  
 
 
 ## Results  
