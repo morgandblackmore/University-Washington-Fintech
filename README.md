@@ -19,20 +19,22 @@ Of those 77,536 total loans, 2500 (3.2%) are defaults.  Because of this imbalanc
 ## Results  
   
 * Analysis 1 - original imbalanced dataset:  
-  * Accuracy: 95.2   
+  __Accuracy__: 95.2   
   __Precision__  
     * healthy loans: 1.00  
     * high-risk loans: 0.85  
-  Recall  
+    
+  __Recall__  
     * healthy loans: 0.99  
     * high-risk loans: 0.91  
 
 * Analysis 2 - rebalanced dataset:
-  * Accuracy: 99.3  
-  **Precision  
+  **Accuracy**: 99.3  
+  **Precision**  
     * healthy loans: 1.00  
     * high-risk loans: 0.84  
-  **Recall  
+    
+  **Recall**  
     * healthy loans: 0.99  
     * high-risk loans: 0.99  
 
