@@ -36,23 +36,24 @@ Alternatively, you could run Sections 1,2, and 4 first, then follow the steps fo
 ---  
 
 ## Results  
-Baseline: 
+### Baseline:  
 ![Baseline Report](/Starter_Code/Resources/baseline_report.png)
 ![Baseline Graph](/Starter_Code/Resources/baseline_returns.png)
 
-Time period / size of dataset:  
+### Adjusted Time period:  
 ![Time Adjusted Report](/Starter_Code/Resources/6mo_report.png)  
 ![Time Adjusted Graph](/Starter_Code/Resources/6mo_returns.png)  
   
-SMA adjusted:  
+### SMA adjusted:  
 ![SMA Adjusted Report](/Starter_Code/Resources/adjusted_sma_report.png)  
 ![SMA Adjusted Graph](/Starter_Code/Resources/adjusted_sma_returns.png)  
   
-AdaBoost:  
+### AdaBoost:  
 ![AdaBoost Report](/Starter_Code/Resources/adaboost_report.png)  
 ![AdaBoost Graph](/Starter_Code/Resources/adaboost_returns.png)
   
-
+The results for all four models are very similar. Total accuracy only ranges from .55 to .56. f1-scores for buy (positive 1) signals are similarly tight, ranging from .71 to .72. f1-scores for sell (negative 1) signals range from .02 to .07.  
+Interestingly, the models all were much more accurate for predicting buy signals than sell. If I was forced to choose between them, I'd go with the baseline SVM-based model. It had the highest precision for sell and buy and was essentially equal to the others in terms of recall and f1-scores.
 
 ---  
 
