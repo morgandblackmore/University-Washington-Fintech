@@ -18,8 +18,8 @@ Uses Jupyter Lab, Python, Scikitlearn, SVC, AdaBoost.
 ## Usage  
 This project consists of 4 Sections:  
 1. Generating a baseline model (consisting of 7 labeled steps)
-2. Tuning baseline by changing the time period  
-3. Tuning the baseline by changing the moving average period
+2. Tune the baseline by changing the time period  
+3. Tune the baseline by changing the moving average period
 4. Generating a new model using a different ML algorithm
 
 
@@ -52,8 +52,8 @@ Alternatively, you could run Sections 1,2, and 4 first, then follow the steps fo
 ![AdaBoost Report](/Starter_Code/Resources/adaboost_report.png)  
 ![AdaBoost Graph](/Starter_Code/Resources/adaboost_returns.png)
   
-The results for all four models are very similar. Total accuracy only ranges from .55 to .56. f1-scores for buy (positive 1) signals are similarly tight, ranging from .71 to .72. f1-scores for sell (negative 1) signals range from .02 to .07.  
-Interestingly, the models all were much more accurate for predicting buy signals than sell. If I was forced to choose between them, I'd go with the baseline SVM-based model. It had the highest precision for sell and buy and was essentially equal to the others in terms of recall and f1-scores.
+The results for all four models are very similar. Total accuracy only ranges from .55 to .56. The f1-scores for buy (positive 1) signals are similarly tight, ranging from .71 to .72. The f1-scores for sell (negative 1) signals range from .02 to .07.  
+Interestingly, all of the models were much more accurate at predicting buy signals than sell. If I was forced to choose between them, I'd go with the Baseline SVM-based model. It had the highest precision for sell and buy and was essentially equal to the others in terms of recall and f1-scores.
 
 ---  
 
