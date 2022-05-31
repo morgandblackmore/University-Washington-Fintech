@@ -17,10 +17,10 @@ However, you can find the code for the lambda function in Starter_Code/Lambda/la
 You can also find gifs of testing below. 
 
 ### Initial testing of Lex
-[Initial Test](Resources/chatbot_test_1.gif)
+![Initial Test](Resources/chatbot_test_1.gif)
 
 ### Final testing of Lex with Lambda functionality 
-[Final Test](Resources/chatbot_final.gif)
+![Final Test](Resources/chatbot_final.gif)
 
 ---  
 
