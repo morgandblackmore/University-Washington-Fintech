@@ -7,12 +7,12 @@ Build a blockchain-based ledger system in Python. Create blocks, a chain, and va
 ## Technologies  
 Uses Python 3.10.4.  
 Libraries    
-  *streamlit  
-  *dataclasses  
-  *typing  
-  *datetime  
-  *pandas  
-  *hashlib
+  * streamlit  
+  * dataclasses  
+  * typing  
+  * datetime  
+  * pandas  
+  * hashlib
 
 ---  
 
