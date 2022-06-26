@@ -14,10 +14,10 @@ Here is the functioning UI:
 **Step 2.** Use the interface to initiate transactions. I sent eth to all four accounts.
   
 We can see the transactions here:  
-![transactions](Starter_Code/Starter_Code/Images/transctions.png)
+![transactions](Starter_Code/Starter_Code/Images/transactions.png)
 
 And the Account is showing a deduction in the balance:
-![account](Starter_Code/Starter_Code/Images/ganache_accounts)
+![account](Starter_Code/Starter_Code/Images/ganache_accounts.png)
   
 ---
 
