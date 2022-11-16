@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# University-Washington-Fintech
-Collection of projects and coursework for University of Washington FinTech microdegree program
-=======
 # Crypto Arbitrage
 Week 3 Challenge of UW FinTech Boot Camp
 
@@ -39,4 +35,3 @@ Base code provided as class materials but skillfully updated by Morgan Blackmore
 
 Code provided under [MIT](https://mit-license.org/) license. 
 
->>>>>>> challenge-3/master
